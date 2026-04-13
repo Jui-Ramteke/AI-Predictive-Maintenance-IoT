@@ -29,11 +29,11 @@ This module acts as the "Digital Twin" of the hardware. Users can trigger manual
 
 ### 3. Historical Data & Trend Analysis (EDA)
 A deep-dive into the sensor data stream. This view highlights "Failure Signatures"—specific moments where vibration and current draw spike simultaneously, indicating a mechanical seize.
-![Trend Analysis](assets/o3.jpg)
+![Trend Analysis](assets/o3.png)
 
 ### 4. AI Model Performance & Metrics
 Transparency is key in industrial AI. This section provides a technical breakdown of the Random Forest model's accuracy, precision, and the specific sensors it relies on for decision-making.
-![Model Performance](assets/o4.jpg)
+![Model Performance](assets/o4.png)
 
 ---
 
